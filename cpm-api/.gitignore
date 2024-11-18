@@ -1,0 +1,4 @@
+# Ignorar archivos de compilación
+*.log
+node_modules/
+build/
